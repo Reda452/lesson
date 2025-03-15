@@ -15,4 +15,4 @@ class myClass:
 # object creation and method call
 foo = myClass()
 foo.hello()
-foo.privMeth()
+foo.__privMeth()
